@@ -26,17 +26,17 @@ This script sets up a streamlined gaming environment on **Fedora Linux (GNOME)**
 1. Download the script:
 
    ```bash
-   curl -O https://your-url/install-gaming.sh
+   curl -O https://raw.githubusercontent.com/ManolisG11/Qoralis/refs/heads/main/setup.sh
 Make it executable:
 
 ```bash
-chmod +x install-gaming.sh
+chmod +x setup.sh
 Run the script:
 
 ```
 
 ```bash
-./install-gaming.sh
+./setup.sh
 ```
 Reboot your system:
 
