@@ -48,7 +48,7 @@ Qoralis is a streamlined **gaming environment setup script** for **Fedora Linux 
    sudo reboot
    ```
 
-After reboot, Pegasus Frontend will launch automatically with the stylish **library** theme — ready for your Minecraft and Steam Link games!
+After reboot, Pegasus Frontend will launch automatically with the stylish **library** theme!
 
 ---
 
