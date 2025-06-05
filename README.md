@@ -96,6 +96,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 Contributions, feedback, and bug reports are warmly welcome! Open an issue or submit a pull request to improve Qoralis.
 
 🎮 *Enjoy your Raspberry Pi 5 gaming experience with Qoralis!*
-
-```
-```
