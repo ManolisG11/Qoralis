@@ -29,22 +29,20 @@ This script sets up a streamlined gaming environment on **Fedora Linux (GNOME)**
    curl -O https://your-url/install-gaming.sh
 Make it executable:
 
-bash
-Copy
-Edit
+```bash
 chmod +x install-gaming.sh
 Run the script:
 
-bash
-Copy
-Edit
+```
+
+```bash
 ./install-gaming.sh
+```
 Reboot your system:
 
-bash
-Copy
-Edit
+```bash
 sudo reboot
+```
 On reboot, Pegasus Frontend will launch automatically with the "library" theme, giving you a slick game launcher experience ready to run Minecraft and Steam Link.
 
 Requirements
