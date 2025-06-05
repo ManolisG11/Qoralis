@@ -28,7 +28,7 @@ Qoralis is a streamlined **gaming environment setup script** for **Fedora Linux 
 1. **Download the setup script:**
    ```bash
    curl -O https://raw.githubusercontent.com/ManolisG11/Qoralis/refs/heads/main/setup.sh
-````
+   ```
 
 2. **Make it executable:**
 
